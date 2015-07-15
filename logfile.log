@@ -1,0 +1,15 @@
+2015-07-14 21:21:55,062 INFO  [YahooMailLogin] Browser launched 
+2015-07-14 21:21:59,947 INFO  [YahooMailLogin] Navigated to url 
+2015-07-14 21:22:01,253 INFO  [YahooMailLogin] Enterd the username 
+2015-07-14 21:22:01,343 INFO  [YahooMailLogin] Enterd the password 
+2015-07-14 21:22:02,333 INFO  [YahooMailLogin] Click on Signin 
+2015-07-14 21:23:17,295 INFO  [YahooMailLogin] Browser launched 
+2015-07-14 21:23:22,071 INFO  [YahooMailLogin] Navigated to url 
+2015-07-14 21:23:23,230 INFO  [YahooMailLogin] Enterd the username 
+2015-07-14 21:23:23,310 INFO  [YahooMailLogin] Enterd the password 
+2015-07-14 21:23:24,360 INFO  [YahooMailLogin] Click on Signin 
+2015-07-14 21:32:58,666 INFO  [YahooMailLogin] Browser launched 
+2015-07-14 21:33:03,222 INFO  [YahooMailLogin] Navigated to url 
+2015-07-14 21:33:04,378 INFO  [YahooMailLogin] Entered the username 
+2015-07-14 21:33:04,478 INFO  [YahooMailLogin] Entered the password 
+2015-07-14 21:33:05,368 FATAL [YahooMailLogin] Click on Signin 
